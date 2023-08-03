@@ -1,0 +1,7 @@
+How to run it:
+docker run --network host -p 7860:7860 -v /home/eyaweiw/github:/tf -it eyaweiw.cn:5000/langchainchatglm:2023-05-24-1.0.0
+
+image eyaweiw.cn:5000/langchainchatglm:2023-05-24-1.0.0 is based on eyaweiw.cn:5000/chatglm6b:2023-05-11-1.0.0
+For chatglm6b, refer to ../ChatGLM-6B/tips.txt
+
+
